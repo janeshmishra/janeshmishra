@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+This is a initiation of Janesh Mishra on Github <!--
 **janeshmishra/janeshmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
